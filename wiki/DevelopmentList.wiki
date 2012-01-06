@@ -3,3 +3,12 @@
 jQuery Right Click Addon
 
 =Modules=
+Sign-in log module
+Browser Title Changer module
+XE Uninstall module
+XE Recovery module
+BGM Player for XE
+Webhard Service for XE
+Torrent Service for XE
+
+=Widgetstyle=
