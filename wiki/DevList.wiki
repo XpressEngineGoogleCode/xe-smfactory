@@ -1,14 +1,18 @@
 #labels Phase-Implementation
-=Addons=
+
+=Development List=
+There are programs and themes what are developing or had developed.
+
+==Addons==
 jQuery Right Click Addon
 
-=Modules=
-  * Sign-in log module
-  * Browser Title Changer module
+==Modules==
+  * [SignInLogModule Sign-in log module]
+  * [BrowserTitleChangerModule Browser Title Changer module]
   * XE Uninstall module
   * XE Recovery module
   * BGM Player for XE
   * Webhard Service for XE
   * Torrent Service for XE
 
-=Widgetstyle=
+==Widgetstyles==

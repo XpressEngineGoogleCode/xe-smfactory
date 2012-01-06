@@ -1,14 +1,18 @@
 #labels Phase-Implementation
-=애드온=
+
+=개발 목록=
+개발중이거나 개발 완료된 프로그램 및 스킨 목록입니다.
+
+==애드온==
 jQuery Right Click Addon
 
-=모듈=
-  * 로그인 기록 모듈
-  * 타이틀 제어 모듈
+==모듈==
+  * [SignInLogModule 로그인 기록 모듈]
+  * [BrowserTitleChangerModule 타이틀 제어 모듈]
   * XE Uninstall 모듈
   * XE Recovery 모듈
   * BGM Player for XE
   * Webhard Service for XE
   * Torrent Service for XE
 
-=위젯 스타일=
+==위젯 스타일==
